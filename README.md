@@ -1,4 +1,4 @@
 # ImmGate
 
-Copyright ImmGate SA. Licensed under CC-BY-NC-SA unported 4.0
+Copyright ImmGate SA. Licensed under CC-BY-NC-SA 
 
